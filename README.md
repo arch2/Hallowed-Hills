@@ -1,3 +1,3 @@
 # Hallowed-Hills
 
-[Link](https://arch2.github.io/Invalice/)
+[Link](https://arch2.github.io/Hallowed-Hills/)
