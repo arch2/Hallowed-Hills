@@ -24,7 +24,7 @@
 
 ## Session 1 
 
-> 4/15/21 _The Crew_
+> 4/15/23 _The Crew_
 
 Linq asks for a simple tea and boomer decided to join him. "I really want to see how you drink with your feet bro." Krrven takes a look around (13 perc) and notice the bar is heavily guarded. Maeve retired to her room. 
 
@@ -40,4 +40,10 @@ We walk as a group over to the bakery. The sign just says "The Bakery." Maeve as
 
 In the back room of the bakery Boomer attempts to offer (3 pers) "The Baker" some mushrooms. Baker walks over and looks through a giant file drawer and asks what we are looking for. He explains the proprietor of the building is Jack and he recently came into some wealth. Maeve tries (2 pers) to discern more into what the Baker is trying to explain. Krrven asks who runs the city the Baker explains Moe runs the east side, Hans and Grits run the north side, Valeria runs the south, and Jack and "Humpty" is fighting for the west side. Krrven notices a potential secret entrance in the blueprints. Zach asks about the motives of these kingpins and is detailed how Moe seems to look out fo the people, Valeria is vain, and Jack is kind of selfish. 
 
-The Baker then asks, "Now for my part, what will my cut be for this info? I usually ask for 15%." Basil asks "Lets make it 13% and call it a Baker's dozen." The Baker giggles like a school girl and says alrights. 
+The Baker then asks, "Now for my part, what will my cut be for this info? I usually ask for 15%." Basil asks "Lets make it 13% and call it a Baker's dozen." The Baker giggles like a school girl and says alright. Basil leads out some info (pers 11) about the job so his crew can know whats going on. Zach asks his statue bird to see if he can inspect Jack's office (animal 6), the statue turns into a raven and flies in the opposite direction. 
+
+The group walks out of the bakery, Maeve asks (18 pers) about any regulars and Jacks, we are informed of two of them. We taxi two carriages to head to the west side of the city. This area of the city is a bit more fanciful. The two names we encounter are Boudir, a fancifal partier, and Vax a drunkard. The gang rolls investigation to find Vax (8,16,15,7...some other crap rolls) and find him at a rundown bar. Vax has a couple piercings, some tattoos, and a full gold set of teeth, he looks wasted. Vax is sitting across the bar from the bartender just reading from a book. It is noon. Maeve offers to buy Vax some more whiskey (4 silver).
+
+## Session 2
+
+> 9/99/23 _TBD_
