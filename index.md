@@ -42,7 +42,13 @@ In the back room of the bakery Boomer attempts to offer (3 pers) "The Baker" som
 
 The Baker then asks, "Now for my part, what will my cut be for this info? I usually ask for 15%." Basil asks "Lets make it 13% and call it a Baker's dozen." The Baker giggles like a school girl and says alright. Basil leads out some info (pers 11) about the job so his crew can know whats going on. Zach asks his statue bird to see if he can inspect Jack's office (animal 6), the statue turns into a raven and flies in the opposite direction. 
 
-The group walks out of the bakery, Maeve asks (18 pers) about any regulars and Jacks, we are informed of two of them. We taxi two carriages to head to the west side of the city. This area of the city is a bit more fanciful. The two names we encounter are Boudir, a fancifal partier, and Vax a drunkard. The gang rolls investigation to find Vax (8,16,15,7...some other crap rolls) and find him at a rundown bar. Vax has a couple piercings, some tattoos, and a full gold set of teeth, he looks wasted. Vax is sitting across the bar from the bartender just reading from a book. It is noon. Maeve offers to buy Vax some more whiskey (4 silver).
+The group walks out of the bakery, Maeve asks (18 pers) about any regulars and Jacks, we are informed of two of them. We taxi two carriages to head to the west side of the city. This area of the city is a bit more fanciful. The two names we encounter are Daldir, a fancifal partier, and Vax a drunkard. The gang rolls investigation to find Vax (8,16,15,7...some other crap rolls) and find him at a rundown bar. Vax has a couple piercings, some tattoos, and a full gold set of teeth, he looks wasted. Vax is sitting across the bar from the bartender just reading from a book. It is noon. Maeve offers to buy Vax some more whiskey (4 silver). Vax offers to get Maeve on the list for the night. Zach asks Vax how the local community is and how Zach is in the scene (18), Vax echos the same sentiment that the Baker disclosed. 
+
+Krrven walks around the stock and takes note of what he sees and finds some guards out front and approaches them. "Hey you guys taking a smoke break?" Krrven tries hard to be chatty with them (1 pers) and the guards respond "You can find out what happens here TONIGHT if you want," as they turn to close the door behind them and enter the bar. Zach's bird flies back to him and lets out a "Squak! (I found it),"  and thats it, just staring at him.
+
+We all start to look for Daldir investigations (3,16...some other crap rolls). After a couple hours we have no luck trying to find him. 
+
+Krrven stakes out over a while (18 invest) and notices a couple of people go in and out of the building. 
 
 ## Session 2
 
