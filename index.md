@@ -11,7 +11,7 @@
 
 ### Player Characters
 
- - [Zachariah Burch](Zachariah)
+ - [Zachariah Burch][Zachariah]
  - Maeve
  - Yurin
  - Boomer
