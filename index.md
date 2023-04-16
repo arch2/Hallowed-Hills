@@ -1,3 +1,7 @@
+[Zachariah]: /assets/und-paladin.webp
+[pc]: #player-characters
+[npc]: #non-player-characters
+
 # Hallowed Hills
 
 # TOC
@@ -7,7 +11,7 @@
 
 ### Player Characters
 
- - Zachariah Burch
+ - [Zachariah Burch](Zachariah)
  - Maeve
  - Yurin
  - Boomer
