@@ -2,8 +2,8 @@
 
 # TOC
 
-- [Session 1] (#session-1)
-- [Session 2] (#session-2)
+- [Session 1](#session-1)
+- [Session 2](#session-2)
 
 ### Player Characters
 
