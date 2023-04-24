@@ -8,6 +8,7 @@
 
 - [Session 1](#session-1)
 - [Session 2](#session-2)
+- [Session 3](#session-3)
 
 ### Player Characters
 
@@ -52,4 +53,46 @@ Krrven stakes out over a while (18 invest) and notices a couple of people go in 
 
 ## Session 2
 
-> 9/99/23 _TBD_
+> 4/23/23 _Day 4 the price of gold_
+
+The crew waits until night time. Zach dresses up like eyes wide shut, cloak covering whole body, and a mask. Basil is wearing snakeskin...as a snake. We are extensively worried if this is a gay bar.... We approach the bar see a goliathe barbarian, an orc, and a tiefling. Basil tries to cut ahead of the line (charisma 23) and the tiefling makes eye contact with him and stops him and says "Omg Basil how are you?!" Basil (14 history) recalls this is Clarissa and knows that shes been working in the area. They have a VERY CHEEKY conversation and then lets Basil in. Boomer (charisma adv 15) and Krrven (charisma adv 16) walk in with Basil, Clarissa offers to catch up with them later. Maeve walks to the front of the line, brings up that she is on the list, Clarissa asks for her +1 and comes in with Yurin. Zach will not create any disorder so he walks to the back of the line. We all make it inside. 
+
+We scan around the room, see a bar to one end, and a staircase in the middle wrapped around a column. Boomer takes a look around (perc 15) and takes notice of more of the well dressed people are ascending the spiral stairs in the middle. With noticing this we all head up the spiral stair case to the 2nd floor and we notice some guards standing to the stairs heading further to the 3rd floor. Group Charisma roll (7,7,0,7,7,22,23) to approach the 3rd floor stairs. The guards look at Maeve and query "They with you?" Basil responds "Never ssseen them before." The bouncer blocks everyone except Basil and Maeve from ascending. Ling tries to go up and the bouncer has to physically touch him and realize he can't see and goes "Oh sorry, yea you can't go up there." On the 4th floor Basil requests to talk to the GM. On the 3rd floor, Ling walks to the dancer floor (perf 16) and kills it. Zach tries to converse with the bartender (7 pers) and gets told that the area the guards are covering are VIP and theres nothing that can be done to get further up the stairs if they don't let you up. Yurin tries to start a fire (20?), but slaps the bartender with his flute. The bartender yells for security, two guards start to approach Yurin while the rest attempt to flee up the stairs. Yurin (17 perf) plays the "I'm sorry" song and stuns the guards in confusion. The guards then start to guide Yurin to the exit, Ling helps Yurin by being a spectacle dancing, and the crowd bumps into the guards freeing Yurin into the crowd. "Time to hit the dusty trail" - Zach says loudly as he turns and walks up the stairs that are currently unguarded. Ling hearing this quickly follows. As we walk up we see guards rushing down looking for a patron that just punched an employee. 
+
+We are all on floor 4 now. We notice a door to the next level that has a lock on it. Ling continues to dance on this floor (10 perf), the music stops. Basil (soh 18) attempts to pick the lock, and opens the door. We walk to the 5th floor (group stealth 7, 12, 20, 20), we hear voices from a covered floor. We see a gentleman with curly brown hair behind a desk, "Look we did a shitty deal, we'll pawn it off."  "Mother goose sent us" - Basil (desception dis 8). We roll INITATIVE.
+
+```
+Zach 20-1
+Krrven 20
+Maeve 13
+Ling 17
+Yurin 14
+Basil 10
+Boomer 20+3
+```
+
+_COMBAT_
+
+Boomer wild shapes into a spore cloud gaining 12 temp hit points and walks up to one of the guards. Krrven uses crimson rite on his blade (takes 4 damage to himself) and blood comes out from his arm surrounding his blade, then moves and attacks a guard (15), and does 8+4 slashing and 1 cold damage. Krrven lessens his blow so the guard does not take fatal damage, instead he falls unconscious. Zach walks up to the guard on the left yelling "This doesn't need to happen," and casts Armor of Agathys on himself. The guard Zach was standing next to takes action and tries to strike Zach (rolls 17) misses and takes 5 damage from Armor of Agathys. Another guard comes by and tries to hit Zach (rolls 15) gets parried and hurt by another shard from Agathys taking 5 damage. A 4th guard approaches Krrven walking by Boomer activating Boomer's Halo of Spores by fails to land on the guard. The guard then struck Krrven for 5 damage. Ling sprints across the room, summons six spectral arms, and attempts to grappel the boss man.  (11 vs 17) Linq fails to grappel him, Jack sees him coming kicks out his chair to bounce away. Yurin hides behind a chair and casts bardic inspiration on Maeve. The druid near Linq casts entagling root on Linq (14 save), as two giant roots appear out of the floor and fail to snap on him and he jumps out of the way. Basil hides behind a table near Yurin, and attacks the guard next to Zach (15), and does 7 damage with Icy touch. A phantasmal hand grasps the guards throat and renders him unconscious. Maeve tries to reach out to Jack "Before this goes any further, lets see if we can make a deal?" (pers 15). Jack becomes intrigued by the idea of a trade. Maeve comments you don't want this combat to go any longer (18 intidimation), and seems to convince Jack there is some value in halting this rough housing. Boomer walks up to the 2nd guard near Krrven and casts shillelagh on his club and swings at the guard, (22 hit) and deals 8+6 damage to him knocking him out. Boomer and Krrven run to the guard near the table and Krrven attempts to swing at him (flanking 17 hit) and deals 5+4 damage to him. Zach looks at the one guard who tried to hit him and tells him "Is this really wise to continue?" the guard drops his weapon and flees down the stairs. Zach then walks over to the druid and swings his maul at him (13 hit) dealing 4+1+3 damage. Ling attempts to grip again (8) and Jack easily jukes it. Ling uses a ki point and uses flurry of blows to attack the druid (21 16 hits) dealing 5+6 force damage to him rendering him unconscious. Yurin sings the "Sorry I fucked your wife song" (Viscious mockery) on the druid (7) and misses, then casts Bardic Inspiration on Ling. After seeing all this carnage Jacks leans back and says "Alright, alright, you got it." 
+
+_COMBAT OVER__
+
+Basil (18 intidimation) yells at Jack "You gonna give us the egg hard boiled, or over-easy?" Jack points over to a chest that has a magical aura around it, casts a spell on it dispelling it and says "There fine its over there." Opening the chest we find a smooth golden egg, Basil lifts it up using mage hand.
+Where did you get this? - Basil
+I was just told to. The whole humpty dumpty thing wasn't an accident. You can't let anyone else know that I told you this. The City Guard. -Jack
+The kings men said they put him back together - Krrven
+They are liars. They know the route, they passed the wall. - Jack
+I'll make this look like an accident so you won't get blamed - Basil
+
+Jack hand Basil a note with a royal guard stamp on it. It details the route where the egg was passed through. 
+
+Time for you to visit the Sssand man - Basil as he casts sleep on Jack. Jack slumps over in the chair - out cold. 
+
+Rummaging through the chest we find 150 silver and a stylish satch (a bag of holding). Krrven rummages through the drawers (perc nat 20) and remembers to go back and lock the door after making all the noise, then also finds a elevator in the back. Krrven also finds another 2 gold, 15 silver, and a black envelope with some dried substance (possibly blood) in the shape of a heart on it. The envelope contains a black piece of paper with white lettering that has an address to the kings guard. Krrven puts it back together into the drawer he found it. Ling tries to rummage through the bodies (3 investigation) and fails to find anything. The stair door starts to rattle, Basil tries to rummage through Jacks pockets (sleight of hand 11 disadvantage) and wakes him up and Jack yells "HELP." We all go to the elevator, as it starts to move we hear the doors rattle more and burst open. The elevator opens up to the kitchen area of the bar. We all leave through the kitchen unnoticed. Basil stops to try to cast prestidigation on some of the sauce and help the cooks, this causing them to rage - we all ignore this and leave. We all escape into a carriage (14 perc) and drive off into the night. We decide to sleep on it rather than turn the egg back in to Moe's immediately. 
+
+We take a long rest.
+
+## Session 3
+
+> 4/23/23 _TBD_
+
