@@ -21,6 +21,7 @@
  - <details>
     <summary>Ling</summary>
     <img src="./assets/ling.png"/>
+    <img src="./assets/Monk_Ling.png"/>
    </details> 
 
  - Maeve
