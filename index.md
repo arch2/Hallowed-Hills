@@ -1,6 +1,7 @@
 [Zachariah]: /assets/und-paladin.webp
 [pc]: #player-characters
 [npc]: #non-player-characters
+[Ling]:/assets/ling.png
 
 # Hallowed Hills
 
@@ -12,7 +13,16 @@
 
 ### Player Characters
 
- - [Zachariah Burch][Zachariah]
+ - <details>
+    <summary>Zacariah Burch</summary>
+    <img src="./assets/undead_paladin.jpg"/>
+ </details> 
+
+ - <details>
+    <summary>Ling</summary>
+    <img src="./assets/ling.png"/>
+ </details> 
+
  - Maeve
  - Yurin
  - Boomer
